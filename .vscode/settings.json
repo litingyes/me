@@ -1,0 +1,7 @@
+{
+  "oxc.disableNestedConfig": true,
+  "oxc.configPath": "vite.config.ts",
+  "oxc.enable": true,
+  "oxc.fixKind": "safe_fix_or_suggestion",
+  "oxc.lint.run": "onSave"
+}

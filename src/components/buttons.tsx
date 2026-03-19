@@ -1,5 +1,6 @@
-import { Button } from "@/components/ui/button";
-import { SiGithub } from "@icons-pack/react-simple-icons";
+import { SiGithub } from "@icons-pack/react-simple-icons"
+
+import { Button } from "@/components/ui/button"
 
 export function GithubButton() {
   return (
